@@ -6,7 +6,7 @@
 
 
 ```python
-
+$pip install a-cv2-split-images-into-equal-parts
 import cv2
 from a_cv2_split_images_into_equal_parts import add_split_images_to_cv2
 add_split_images_to_cv2()
